@@ -1,2 +1,4 @@
 # Sentiment Analysis (Under Development)
-Analysing customer messages to see - Are customers who message with a greeting and sign off with their name, more likely to buy items?
+
+![SA_Report_v3](https://user-images.githubusercontent.com/99413257/169067462-1aea1b96-badf-474c-ab2c-a3f4b71dc5fa.jpg)
+
