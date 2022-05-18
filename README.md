@@ -1,4 +1,5 @@
 # Sentiment Analysis (Under Development)
 
-![SA_Report_v3](https://user-images.githubusercontent.com/99413257/169067462-1aea1b96-badf-474c-ab2c-a3f4b71dc5fa.jpg)
+![SA_Report_v4](https://user-images.githubusercontent.com/99413257/169069426-5952467b-a9a2-4062-b1ae-8c2662b38564.jpg)
+
 
